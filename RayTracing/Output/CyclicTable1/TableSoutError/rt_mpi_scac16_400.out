@@ -1,0 +1,10 @@
+Scene: Complex Scene
+Width x Height: 5000 x 5000
+Partitioning scheme: 8
+Number of Processes: 16
+Dynamic block size: 0 x 0
+Cycle Size: 400
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 18550 on node cluster-node-07 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+8 total processes killed (some possibly by mpirun during cleanup)

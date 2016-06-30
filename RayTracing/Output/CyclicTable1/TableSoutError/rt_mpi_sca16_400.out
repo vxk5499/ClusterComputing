@@ -1,0 +1,6 @@
+Scene: Simple Scene
+Width x Height: 5000 x 5000
+Partitioning scheme: 8
+Number of Processes: 16
+Dynamic block size: 0 x 0
+Cycle Size: 400

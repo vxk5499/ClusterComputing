@@ -1,0 +1,9 @@
+srun: cluster configuration lacks support for cpu binding
+srun: Job step aborted: Waiting up to 2 seconds for job step to finish.
+slurmstepd: *** STEP 51630.0 CANCELLED AT 2014-10-30T08:14:23 DUE TO TIME LIMIT ***
+slurmstepd: *** JOB 51630 CANCELLED AT 2014-10-30T08:14:23 DUE TO TIME LIMIT ***
+mpirun: Forwarding signal 18 to job
+srun: got SIGCONT
+srun: forcing job termination
+srun: error: cluster-node-10.main.ad.rit.edu: task 0: Exited with exit code 1
+srun: Terminating job step 51630.0

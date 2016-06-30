@@ -1,0 +1,9 @@
+Scene: Simple Scene
+Width x Height: 5000 x 5000
+Partitioning scheme: 8
+Number of Processes: 9
+Dynamic block size: 0 x 0
+Cycle Size: 650
+--------------------------------------------------------------------------
+mpirun noticed that process rank 5 with PID 29272 on node cluster-node-04 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------

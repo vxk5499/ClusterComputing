@@ -1,0 +1,11 @@
+srun: cluster configuration lacks support for cpu binding
+srun: Job step aborted: Waiting up to 2 seconds for job step to finish.
+slurmstepd: *** STEP 51245.0 CANCELLED AT 2014-10-29T06:53:23 DUE TO TIME LIMIT ***
+slurmstepd: *** JOB 51245 CANCELLED AT 2014-10-29T06:53:23 DUE TO TIME LIMIT ***
+mpirun: Forwarding signal 18 to job
+srun: got SIGCONT
+srun: forcing job termination
+srun: error: cluster-node-07.main.ad.rit.edu: task 0: Exited with exit code 1
+srun: Terminating job step 51245.0
+[cluster-node-02:16537] [[18230,0],0]->[[18230,0],1] mca_oob_tcp_msg_send_bytes: write failed: Broken pipe (32) [sd = 13]
+[cluster-node-02:16537] [[18230,0],0]-[[18230,0],1] mca_oob_tcp_peer_send_handler: unable to send header

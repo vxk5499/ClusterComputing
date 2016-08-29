@@ -1,67 +1,0 @@
-Simulating 36 dendrites with 100 compartments per dendrite.
-Simulating 36 dendrites with 100 compartments per dendrite.
-Simulating 36 dendrites with 100 compartments per dendrite.
-Simulating 36 dendrites with 100 compartments per dendrite.
-Simulating 36 dendrites with 100 compartments per dendrite.
-Simulating 36 dendrites with 100 compartments per dendrite.
-Simulating 36 dendrites with 100 compartments per dendrite.
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-
-Integration step dt = 0.000100
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-
-Integration step dt = 0.000100
-
-Integration step dt = 0.000100
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-
-Integration step dt = 0.000100
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-
-Integration step dt = 0.000100
-
-Integration step dt = 0.000100
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-
-Integration step dt = 0.000100
-Simulating 36 dendrites with 100 compartments per dendrite.
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-
-Integration step dt = 0.000100
-Simulating 36 dendrites with 100 compartments per dendrite.
-Simulating 36 dendrites with 100 compartments per dendrite.
-Simulating 36 dendrites with 100 compartments per dendrite.
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-
-Data will be stored in data/p1d36c100_103014_040127.dat
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-
-Integration step dt = 0.000100
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-
-Integration step dt = 0.000100
-Graph will be stored in graphs/p1d36c100_103014_040127.png
-
-Integration step dt = 0.000100
-01 ms01 ms01 ms01 ms01 ms01 ms01 ms01 ms01 ms01 ms01 ms02 ms02 ms02 ms02 ms02 ms02 ms02 ms02 ms02 ms02 ms02 ms03 ms03 ms03 ms03 ms03 ms03 ms03 ms03 ms03 ms03 ms03 ms04 ms04 ms04 ms04 ms04 ms04 ms04 ms04 ms04 ms04 ms04 ms05 ms05 ms05 ms05 ms05 ms05 ms05 ms05 ms05 ms05 ms05 ms06 ms06 ms06 ms06 ms06 ms06 ms06 ms06 ms06 ms06 ms06 ms07 ms07 ms07 ms07 ms07 ms07 ms07 ms07 ms07 ms07 ms07 ms08 ms08 ms08 ms08 ms08 ms08 ms08 ms08 ms08 ms08 ms08 ms09 ms09 ms09 ms09 ms09 ms09 ms09 ms09 ms09 ms09 ms09 ms10 ms10 ms10 ms10 ms10 ms10 ms10 ms10 ms10 ms10 ms10 ms11 ms11 ms11 ms11 ms11 ms11 ms11 ms11 ms11 ms11 ms11 ms12 ms12 ms12 ms12 ms12 ms12 ms12 ms12 ms12 ms12 ms12 ms13 ms13 ms13 ms13 ms13 ms13 ms13 ms13 ms13 ms13 ms13 ms14 ms14 ms14 ms14 ms14 ms14 ms14 ms14 ms14 ms14 ms14 ms15 ms15 ms15 ms15 ms15 ms15 ms15 ms15 ms15 ms15 ms15 ms16 ms16 ms16 ms16 ms16 ms16 ms16 ms16 ms16 ms16 ms16 ms17 ms17 ms17 ms17 ms17 ms17 ms17 ms17 ms17 ms17 ms17 ms18 ms18 ms18 ms18 ms18 ms18 ms18 ms18 ms18 ms18 ms18 ms19 ms19 ms19 ms19 ms19 ms19 ms19 ms19 ms19 ms19 ms19 ms20 ms20 ms20 ms20 ms20 ms20 ms20 ms20 ms20 ms20 ms20 ms21 ms21 ms21 ms21 ms21 ms21 ms21 ms21 ms21 ms21 ms21 ms22 ms22 ms22 ms22 ms22 ms22 ms22 ms22 ms22 ms22 ms22 ms23 ms23 ms23 ms23 ms23 ms23 ms23 ms23 ms23 ms23 ms23 ms24 ms24 ms24 ms24 ms24 ms24 ms24 ms24 ms24 ms24 ms24 ms25 ms25 ms25 ms25 ms25 ms25 ms25 ms25 ms25 ms25 ms25 ms26 ms26 ms26 ms26 ms26 ms26 ms26 ms26 ms26 ms26 ms26 ms27 ms27 ms27 ms27 ms27 ms27 ms27 ms27 ms27 ms27 ms27 ms28 ms28 ms28 ms28 ms28 ms28 ms28 ms28 ms28 ms28 ms28 ms29 ms29 ms29 ms29 ms29 ms29 ms29 ms29 ms29 ms29 ms29 ms30 ms30 ms30 ms30 ms30 ms30 ms30 ms30 ms30 ms30 ms30 ms31 ms31 ms31 ms31 ms31 ms31 ms31 ms31 ms31 ms31 ms31 ms32 ms32 ms32 ms32 ms32 ms32 ms32 ms32 ms32 ms32 ms32 ms33 ms33 ms33 ms33 ms33 ms33 ms33 ms33 ms33 ms33 ms33 ms34 ms34 ms34 ms34 ms34 ms34 ms34 ms34 ms34 ms34 ms34 ms35 ms35 ms35 ms35 ms35 ms35 ms35 ms35 ms35 ms35 ms35 ms36 ms36 ms36 ms36 ms36 ms36 ms36 ms36 ms36 ms36 ms36 ms37 ms37 ms37 ms37 ms37 ms37 ms37 ms37 ms37 ms37 ms37 ms38 ms38 ms38 ms38 ms38 ms38 ms38 ms38 ms38 ms38 ms38 ms39 ms39 ms39 ms39 ms39 ms39 ms39 ms39 ms39 ms39 ms39 ms40 ms40 ms40 ms40 ms40 ms40 ms40 ms40 ms40 ms40 ms40 ms41 ms41 ms41 ms41 ms41 ms41 ms41 ms41 ms41 ms41 ms41 ms42 ms42 ms42 ms42 ms42 ms42 ms42 ms42 ms42 ms42 ms42 ms43 ms43 ms43 ms43 ms43 ms43 ms43 ms43 ms43 ms43 ms43 ms44 ms44 ms44 ms44 ms44 ms44 ms44 ms44 ms44 ms44 ms44 ms45 ms45 ms45 ms45 ms45 ms45 ms45 ms45 ms45 ms45 ms45 ms46 ms46 ms46 ms46 ms46 ms46 ms46 ms46 ms46 ms46 ms46 ms47 ms47 ms47 ms47 ms47 ms47 ms47 ms47 ms47 ms47 ms47 ms48 ms48 ms48 ms48 ms48 ms48 ms48 ms48 ms48 ms48 ms48 ms
